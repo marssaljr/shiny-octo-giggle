@@ -1,6 +1,6 @@
-# stunning-journey 
-
-## Meet our personages 
+# shiny-octo-giggle 
+Meet our personages 
+ 
 ### Charlie 
 ![charlie](./charlie.png) 
 ![charliework](./charlie_work.png) 
