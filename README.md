@@ -1,11 +1,11 @@
 # shiny-octo-giggle 
 Meet our personages 
- 
+
 ### Charlie 
 ![charlie](./charlie.png) 
 ![charliework](./charlie_work.png) 
 ### Oliver 
-![oliver](./oliver) 
+![oliver](./oliver.png) 
 ![oliverwork](./oliver_work.png) 
 
 ## Installation & Run 
